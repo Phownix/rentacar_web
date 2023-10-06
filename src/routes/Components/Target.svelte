@@ -13,7 +13,7 @@
     .target{
         display: grid;
         grid-template-rows: 10rem 3rem;
-        max-width: 20rem;
+        width: 100%;
         color: inherit;
         text-decoration: none;
     }

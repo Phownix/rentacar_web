@@ -8,13 +8,13 @@
         <div class="collapse" id="navbar-collapse">
             <ul class="navbar-menu">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    <a class="nav-link active" aria-current="page" href="/">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Link</a>
+                    <a class="nav-link" href="/">Referido</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#null" class="nav-link disabled" aria-disabled="true">Disabled</a>
+                    <a href="javascript:void(0)" class="nav-link disabled" aria-disabled="true">No Disponible</a>
                 </li>
             </ul>
         </div>
